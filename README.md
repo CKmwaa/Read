@@ -5,7 +5,7 @@ My Readme Document
 |Name|Residence|
 |:--| :--|
 |Caleb|Umoja|
-|Imelda|F|
+|Imelda|Kibra|
 
 Here's  a first time trial of read me tex
 
