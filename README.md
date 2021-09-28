@@ -8,9 +8,9 @@ My Readme Document
 |Imelda|Kibra|
 
 2. Table of contents
-* 
-*
-*
+* HTML files
+* CSS files
+* Mark Down 
 
 
 3. Sample picture
