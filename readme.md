@@ -1,6 +1,6 @@
 # My Readme Document
 
-## Table
+### Table
 
 |Name|Residence|
 |:--| :--|
@@ -8,13 +8,12 @@
 |Imelda|Kibra|
 
 
-## Table of contents
+### Table of contents
 * HTML files
 * CSS files
 * Mark Down 
 
 
+### Sample picture
 
-## Sample picture
-
-![download](https://user-images.githubusercontent.com/91134453/135058592-371341d3-0d73-4dfd-a6fd-475682e244a3.jpeg)
+:[Image] src: (https://user-images.githubusercontent.com/91134453/135058592-371341d3-0d73-4dfd-a6fd-475682e244a3.jpeg)
