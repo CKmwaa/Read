@@ -1,5 +1,6 @@
-#My Readme Document
-##Table
+My Readme Document
+
+1. Table
 
 |Name|Gender|
 |:--:| :--: |
