@@ -7,6 +7,9 @@ My Readme Document
 |Caleb|Umoja|
 |Imelda|Kibra|
 
-Here's  a first time trial of read me tex
+2. Table of contents
+
+
+
 
   
