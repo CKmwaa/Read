@@ -2,7 +2,7 @@ My Readme Document
 
 1. Table
 
-|Name|REsidence|
+|Name|Residence|
 |:--| :--|
 |Caleb|Umoja|
 |Imelda|F|
